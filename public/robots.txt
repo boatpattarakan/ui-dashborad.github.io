@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: ใส่ข้อมูล
+
+# Sitemaps
+Sitemap: ใส่ข้อมูล/sitemap.xml
